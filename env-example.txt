@@ -1,0 +1,4 @@
+POSTGREST_DB = database name
+POSTGREST_USER = database user
+POSTGREST_HOST = database host (localhost)
+POSTGREST_PASSWORD = database user password ***
